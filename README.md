@@ -8,7 +8,7 @@ LingoLens transforms the way you explore the world. Whether you're navigating a 
 
 Watch LingoLens in action:
 
-https://github.com/user-attachments/assets/LingoLens.mp4
+[Video link](./video/LingoLens.mp4)
 
 [Try the Live App](https://ai.studio/apps/drive/1EHRXgHbzcMeONmtRUj0qQffbtsL7rzcX?fullscreenApplet=true)
 
