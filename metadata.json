@@ -1,0 +1,7 @@
+{
+  "name": "LingoLens",
+  "description": "Your friendly local guide powered by AI. Upload an image of a menu, sign, or object to get translations, cultural vibes, and pro tips.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
